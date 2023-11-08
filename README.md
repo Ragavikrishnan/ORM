@@ -28,7 +28,8 @@ Include your code here
 
 ## OUTPUT
 
-Include the screenshot of your admin page.
+![Screenshot 2023-11-08 091906](https://github.com/Ragavikrishnan/ORM/assets/144870428/2d289af1-361a-46b6-9788-5734cbc9254c)
+
 
 
 ## RESULT
